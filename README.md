@@ -4,7 +4,7 @@ Trata-se de um modelo PSD para web.
 <p>A inspiração para esta arte foi a banda italiana Lacuna Coil.</p>
 <p>As fontes foram baixadas no site da banda.</p>
 <a href="http://www.emptyspiral.net/downloads/">fontes EmptySpiral</a>
-
+<a href="http://www.dafont.com/pt/">Diversas fontes</a>
 <hr>
 <p>Author: Lameck Fernandes</p>
 <p>Modelo: Roller - Lacuna Coil Delirium</p>
