@@ -3,6 +3,7 @@ Trata-se de um modelo PSD para web.
 
 <p>A inspiração para esta arte foi a banda italiana Lacuna Coil.</p>
 <p>As fontes foram baixadas no site da banda.</p>
+<a href="http://www.emptyspiral.net/downloads/">fontes EmptySpiral</a>
 
 <hr>
 <p>Author: Lameck Fernandes</p>
