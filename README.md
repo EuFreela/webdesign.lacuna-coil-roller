@@ -15,4 +15,4 @@ Trata-se de um modelo PSD para web.
 
 <hr>
 <p>Este é um modelo de resumo criado no Phoroshop CS5</p>
-<img src="https://s26.postimg.org/798zeetqx/Lacuna-_Coil-_Delirum-web_Design.jpg" width="300" height="400">
+<img src="https://s26.postimg.org/798zeetqx/Lacuna-_Coil-_Delirum-web_Design.jpg" width="300" height="500">
