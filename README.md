@@ -1,4 +1,4 @@
-# webdesign.lacuna-coil-roller
+# Web Design - Lacuna Coil Delirium
 Trata-se de um modelo PSD para web.
 
 <p>A inspiração para esta arte foi a banda italiana Lacuna Coil.</p>
